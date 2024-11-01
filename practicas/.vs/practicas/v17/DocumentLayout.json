@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nahue\\source\\repos\\practicas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9021844-26FF-4F19-AB90-1061CD55877B}|practicas\\practicas.csproj|c:\\users\\nahue\\source\\repos\\practicas\\practicas\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9021844-26FF-4F19-AB90-1061CD55877B}|practicas\\practicas.csproj|solutionrelative:practicas\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9021844-26FF-4F19-AB90-1061CD55877B}|practicas\\practicas.csproj|c:\\users\\nahue\\source\\repos\\practicas\\practicas\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9021844-26FF-4F19-AB90-1061CD55877B}|practicas\\practicas.csproj|solutionrelative:practicas\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9021844-26FF-4F19-AB90-1061CD55877B}|practicas\\practicas.csproj|c:\\users\\nahue\\source\\repos\\practicas\\practicas\\controllers\\linqej1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9021844-26FF-4F19-AB90-1061CD55877B}|practicas\\practicas.csproj|solutionrelative:practicas\\controllers\\linqej1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonasController.cs",
+              "DocumentMoniker": "C:\\Users\\nahue\\source\\repos\\practicas\\practicas\\Controllers\\PersonasController.cs",
+              "RelativeDocumentMoniker": "practicas\\Controllers\\PersonasController.cs",
+              "ToolTip": "C:\\Users\\nahue\\source\\repos\\practicas\\practicas\\Controllers\\PersonasController.cs",
+              "RelativeToolTip": "practicas\\Controllers\\PersonasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T18:11:56.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\nahue\\source\\repos\\practicas\\practicas\\Persona.cs",
+              "RelativeDocumentMoniker": "practicas\\Persona.cs",
+              "ToolTip": "C:\\Users\\nahue\\source\\repos\\practicas\\practicas\\Persona.cs",
+              "RelativeToolTip": "practicas\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T18:08:19.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinqEj1Controller.cs",
+              "DocumentMoniker": "C:\\Users\\nahue\\source\\repos\\practicas\\practicas\\Controllers\\LinqEj1Controller.cs",
+              "RelativeDocumentMoniker": "practicas\\Controllers\\LinqEj1Controller.cs",
+              "ToolTip": "C:\\Users\\nahue\\source\\repos\\practicas\\practicas\\Controllers\\LinqEj1Controller.cs",
+              "RelativeToolTip": "practicas\\Controllers\\LinqEj1Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T21:48:38.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
