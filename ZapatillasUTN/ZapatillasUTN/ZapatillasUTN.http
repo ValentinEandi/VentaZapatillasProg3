@@ -1,0 +1,6 @@
+@ZapatillasUTN_HostAddress = http://localhost:5149
+
+GET {{ZapatillasUTN_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
